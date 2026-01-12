@@ -1,7 +1,6 @@
 {
-  "version": "1.9.4",
-  "apk_url": "https://github.com/ahmed-shahriar04/SilentZone/releases/download/1.9.4/SilentZone-v1.9.4.apk",
+  "version": "1.9.5",
+  "apk_url": "https://github.com/ahmed-shahriar04/SilentZone/releases/download/1.9.5/SilentZone-v1.9.5.apk",
   "release_notes": "Security patches and performance improvements",
   "integrity_badge": "SYSTEM INTEGRITY OK"
 }
-
